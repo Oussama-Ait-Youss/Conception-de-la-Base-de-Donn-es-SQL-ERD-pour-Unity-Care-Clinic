@@ -81,8 +81,7 @@ This repository contains SQL scripts covering 25+ distinct scenarios, ranging fr
 
 ## Repository Structure
 
-Plaintext
-
+```
 ├── assets/
 │   └── erd_diagram.png       # Entity-Relationship Diagram
 ├── sql/
@@ -90,7 +89,7 @@ Plaintext
 │   ├── data.sql              # Mock data insertion
 │   └── queries.sql           # Solutions to the 25 exercises
 ├── README.md                 # Project documentation
-
+```
 
 ## Project Context
 
